@@ -1,5 +1,5 @@
 # Add Remove bot numbers
-!pip package
+pip package
 ```bash
 pip install aiogram
 ```
