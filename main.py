@@ -7,7 +7,7 @@ from buttons import user_data, update_num_text, get_keyboard
 from aiogram import types
 
 dp = Dispatcher()
-TOKEN = "7123465515:AAGhb__S4SJclyCcHvwh_ZZm_6vX0p18JhA"
+TOKEN = ""
 
 
 @dp.message(CommandStart())
